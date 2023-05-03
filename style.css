@@ -53,26 +53,31 @@ body {
     width: 330px;
     text-align: center;
     font-weight: 600;
+    border-radius: 4px;
 }
 #btn1 {
     border: 2px solid #BB99DD;
     padding: 12px;
     margin-top: 30px;
     margin-bottom: 15px;
+    border-radius: 4px;
 }
 #btn2 {
     border: 2px solid #BB99DD;
     padding: 12px;
     margin-bottom: 15px;
+    border-radius: 4px;
 }
 #btn3 {
     border: 2px solid #BB99DD;
     padding: 12px;
     margin-bottom: 15px;
+    border-radius: 4px;
 }
 #btn4 {
     border: 2px solid #BB99DD;
     padding: 12px;
+    border-radius: 4px;
 }
 
 /* ↑ Configurando o Main ↑ */
