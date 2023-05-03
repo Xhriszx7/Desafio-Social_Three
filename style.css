@@ -1,0 +1,90 @@
+/* ↓ Reset CSS ↓ */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+/* ↑ Reset CSS ↑ */
+
+/* Configurando o Body */
+
+body {
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAF7FD;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 330px;
+    color: #BB99DD;
+}
+
+/* ↓ Configurando o Header ↓ */
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+/* Configurando o Parágrafo em Header*/
+#insta {
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+/* Editando a Imagem */
+#profile {
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+    border-radius: 360px;
+    border: 2px solid #BB99DD;
+}
+
+/* ↑ Configurando Header ↑ */
+/* ↓ Configurando o Main ↓ */
+
+.btn {
+    width: 330px;
+    text-align: center;
+    font-weight: 600;
+}
+#btn1 {
+    border: 2px solid #BB99DD;
+    padding: 12px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+#btn2 {
+    border: 2px solid #BB99DD;
+    padding: 12px;
+    margin-bottom: 15px;
+}
+#btn3 {
+    border: 2px solid #BB99DD;
+    padding: 12px;
+    margin-bottom: 15px;
+}
+#btn4 {
+    border: 2px solid #BB99DD;
+    padding: 12px;
+}
+
+/* ↑ Configurando o Main ↑ */
+/* ↓ Configurando o Footer ↓*/
+
+.footer {
+    margin-top: 30px;
+}
+/* Afastando os ícones */
+.footer img {
+    margin-right: 12px;
+}
+
+/* ↑ Configurando o Footer ↑*/
+/* Parabéns a Mim mesmo ♥️*/
