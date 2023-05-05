@@ -80,6 +80,12 @@ body {
     border-radius: 4px;
 }
 
+.buton:hover {
+    background-color: #BB99DD29;
+    transition: 0.2s ease-out;
+    cursor: pointer;
+}
+
 /* ↑ Configurando o Main ↑ */
 /* ↓ Configurando o Footer ↓*/
 
